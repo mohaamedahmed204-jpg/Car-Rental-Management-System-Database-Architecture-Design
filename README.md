@@ -6,7 +6,7 @@
 
 Welcome to the **Car Rental Management System** database design project! This repository contains a comprehensive Relational Database Schema and Entity-Relationship Diagram (ERD) designed to streamline and automate the operations of a modern car rental agency. 
 
-Included in this repository is the complete **SQL Server Backup / Database File** allowing you to restore, test, and query the system directly in your environment! 🛠️
+Included in this repository is the complete **SQL Server Backup / Database File** allowing you to restore, test, and query the system directly in your environment!
 
 ---
 
@@ -104,4 +104,11 @@ To test the database with pre-populated data:
 3. Execute queries, test constraints, and explore the schema!
 
 ---
+
+## 🙏 Acknowledgments
+
+This project is part of the Programming Advices Training Track led by:
+
+    👨‍🏫 Dr. Mohamed Abouhadhood
+    💻 Platform: Programming Advices
 
