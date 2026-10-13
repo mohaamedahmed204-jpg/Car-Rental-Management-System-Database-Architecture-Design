@@ -109,6 +109,6 @@ To test the database with pre-populated data:
 
 This project is part of the Programming Advices Training Track led by:
 
-    👨‍🏫 Dr. Mohamed Abouhadhood
-    💻 Platform: Programming Advices
+* 👨‍🏫 Dr. Mohamed Abouhadhood
+* 💻 Platform: Programming Advices
 
